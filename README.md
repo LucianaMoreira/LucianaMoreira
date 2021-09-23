@@ -6,7 +6,7 @@
 
 ### About me
 - :computer: I've been a programmer since I was 16 years old.
-- 🏫 I'm graduate in system information
+- 🏫 I'm graduate in information systems
 - 📌 I currently work developing Machine Learning models and Python automations.
 - ☕ Fun fact: I'm a programmer who doesn't drink coffee
 - 👩 Pronouns: She/Her
